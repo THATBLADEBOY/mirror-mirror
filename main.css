@@ -1,0 +1,13 @@
+.articles {
+    display: flex;
+}
+
+#article1 {
+    border: 1px solid blue;
+    flex-basis: 50%;
+}
+
+#article2 {
+    border: 1px solid red;
+    flex-basis: 50%;
+}
